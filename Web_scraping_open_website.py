@@ -2,12 +2,6 @@
 
 # web_scraping.py
 
-from selenium import webdriver
-
-driver = webdriver.Chrome()
-
-
-
 # Importing Necessary Files
 
 from selenium import webdriver
